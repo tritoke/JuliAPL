@@ -1,5 +1,5 @@
 # JuliAPL
-Submission for Hack the Bergh 8's challenge from compsoc: most functionality in the fewest characters.
+Submission for Hack the Burgh 8's challenge from compsoc: most functionality in the fewest characters.
 
 Total Chars: 309
 
