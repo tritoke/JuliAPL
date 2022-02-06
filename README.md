@@ -7,3 +7,7 @@ Total Chars: 309
 Install the dyalog APL interpreter, then run with: `dyalog -script submission.apl`.
 It will generate the fractal.ppm image as output.
 The parameters of the fractal can be tweaked from inside the `submission.apl` file itself using the definitions at the top of the script.
+
+## Example
+
+![](https://github.com/tritoke/JuliAPL/blob/main/fractal.png)
